@@ -1,7 +1,3 @@
-
-# <a href="https://nitya2504.github.io/Sudoku/">Webpage</a>
-
-
 # javascript-sudoku
 
     Make Sudoku Game With HTML CSS JavaScript
